@@ -51,12 +51,12 @@ git remote add origin https://github.com/<your-username>/<your-repo>.git
 
 Save the bash script as "resource_tracker.sh" and make it executable:
 
-bash
+bash:
 chmod +x resource_tracker.sh
 
 ### 3. Configure AWS CLI (if not done already)
 
-bash
+bash:
 aws configure
 
 ### 4. SES Email Setup
