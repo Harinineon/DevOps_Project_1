@@ -3,7 +3,7 @@
 A simple yet powerful bash-based monitoring tool that logs system diagnostics (memory, disk, CPU, network, processes, etc.) from an AWS EC2 instance.
 Each time you run the script manually, it:
 - Saves the output to a timestamped log file
-- Commits and pushes the log file to a GitHub repository
+- Commits and pushes the log file to a GitHub repository (https://github.com/Harinineon/EC2_Resource_Tracker.git)
 - Sends an email alert confirming log creation
 
 ## 📌 Features
