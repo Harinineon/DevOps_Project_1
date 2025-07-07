@@ -84,7 +84,7 @@ A new log file will be created and pushed to GitHub. An email will be sent confi
 | lscpu               | CPU architecture and stats                   |
 | ip addr             | Shows network interface and IP info          |
 | top -b -n 1         | Snapshot of top processes (batch mode)       |
-| dmesg | tail        | Shows last 10 kernel logs                    |
+| dmesg tail          | Shows last 10 kernel logs                    |
 | aws ses send-email  | Sends an email alert using AWS SES           |
 | git add/commit/push | Commits log and pushes to GitHub             |
 ----------------------------------------------------------------------
